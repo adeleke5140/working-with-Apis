@@ -15,6 +15,70 @@
     {
       "item": "rice",
       "id": 4
+    },
+    {
+      "item": "Akara",
+      "id": 5
+    },
+    {
+      "item": "Akara",
+      "id": 6
+    },
+    {
+      "item": "Iyan",
+      "id": 7
+    },
+    {
+      "item": "Pounded Yam",
+      "id": 8
+    },
+    {
+      "item": "Egusi",
+      "id": 9
+    },
+    {
+      "item": "Bread and Beans",
+      "id": 10
+    },
+    {
+      "item": "Bread and Beans",
+      "id": 11
+    },
+    {
+      "item": "Rice and Ugwu",
+      "id": 12
+    },
+    {
+      "item": "cocopops",
+      "id": 13
+    },
+    {
+      "item": "Obe ila",
+      "id": 14
+    },
+    {
+      "item": "chicken and chips",
+      "id": 15
+    },
+    {
+      "item": "Rice and Ugwu",
+      "id": 16
+    },
+    {
+      "item": "Indomie",
+      "id": 17
+    },
+    {
+      "item": "abasha",
+      "id": 18
+    },
+    {
+      "item": "Pounded Yam",
+      "id": 19
+    },
+    {
+      "item": "Eba and Okra",
+      "id": 20
     }
   ]
 }
